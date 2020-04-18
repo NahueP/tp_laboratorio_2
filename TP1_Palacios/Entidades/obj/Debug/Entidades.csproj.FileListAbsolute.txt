@@ -1,6 +1,0 @@
-C:\Users\nahue\Desktop\TP1_Palacios\Entidades\bin\Debug\Entidades.dll
-C:\Users\nahue\Desktop\TP1_Palacios\Entidades\bin\Debug\Entidades.pdb
-C:\Users\nahue\Desktop\TP1_Palacios\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\nahue\Desktop\TP1_Palacios\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\nahue\Desktop\TP1_Palacios\Entidades\obj\Debug\Entidades.dll
-C:\Users\nahue\Desktop\TP1_Palacios\Entidades\obj\Debug\Entidades.pdb
