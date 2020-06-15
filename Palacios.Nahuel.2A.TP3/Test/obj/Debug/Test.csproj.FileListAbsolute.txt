@@ -1,0 +1,16 @@
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Test.exe.config
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Test.exe
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Test.pdb
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Archivos.dll
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\ClasesAbstractas.dll
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\ClasesInstanciables.dll
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Excepciones.dll
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Archivos.pdb
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\ClasesAbstractas.pdb
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\ClasesInstanciables.pdb
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\bin\Debug\Excepciones.pdb
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\obj\Debug\Test.exe
+C:\Users\nahue\Desktop\Facultad\Palacios.Nahuel.2A.TP3\Test\obj\Debug\Test.pdb
