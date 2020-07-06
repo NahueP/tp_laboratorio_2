@@ -1,0 +1,21 @@
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\nahue\Desktop\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\nahue\Desktop\Facultad\Prog-Lab2\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\nahue\Desktop\Nueva carpeta\Palacios.Nahuel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
